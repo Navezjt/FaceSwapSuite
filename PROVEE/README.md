@@ -1,0 +1,3 @@
+- https://github.com/diStyApps/FaceSwapSuite
+- https://www.youtube.com/watch?v=4P9v4nLaB5Y&ab_channel=Social%26Apps
+- https://github.com/Navezjt/FaceSwapSuite
